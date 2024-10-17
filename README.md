@@ -1,9 +1,9 @@
 ## Hi there, I'm Yanina. 👋
 
-A Data Analyst transitioning from 20+ years in Insurance & Risk Management
-based in Ghent, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/in/yanina-andriienko/)!
-🌱 I am a [Becode](https://becode.org/) alumni. Batch: BeCode AI & Data Science bootcamp | ARAI 6
-✨ Master in Accounting and Auditing
+A Data Analyst transitioning from 20+ years in Insurance & Risk Management<br>
+based in Ghent, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/in/yanina-andriienko/)!<br>
+🌱 I am a [Becode](https://becode.org/) alumni. Batch: BeCode AI & Data Science bootcamp | ARAI 6<br>
+✨ Master in Accounting and Auditing<br>
 
 ## Projects I have Worked On <br>
 ### ✨ Real estate price prediction:<br>
