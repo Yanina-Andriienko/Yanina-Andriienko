@@ -5,7 +5,7 @@ based in Ghent, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/i
 🌱 I am a [Becode](https://becode.org/) alumni. Batch: BeCode AI & Data Science bootcamp | ARAI 6<br>
 ✨ Master in Accounting and Auditing<br>
 
-## Projects I have Worked On <br>
+## Projects I Have Worked On <br>
 ### ✨ Real estate price prediction<br>
 Utilized scikit-learn's Random Forest Regressor for modeling, web scraping to gather data, SQL and pandas for data cleaning, and pandas, matplotlib, seaborn, and Plotly for visual analysis. The application was deployed using Docker, FastAPI, and Streamlit. <br>
 - [Part 1 Webscraping to create a dataset (in collaboration)](https://github.com/Yanina-Andriienko/immo-eliza-scraping-scrapegoat)<br>
