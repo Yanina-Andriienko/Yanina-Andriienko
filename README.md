@@ -6,12 +6,12 @@ based in Ghent, Belgium. Let's connect on  [LinkedIn](https://www.linkedin.com/i
 ✨ Master in Accounting and Auditing<br>
 
 ## Projects I have Worked On <br>
-### ✨ Real estate price prediction:<br>
+### ✨ Real estate price prediction<br>
 Utilized scikit-learn's Random Forest Regressor for modeling, web scraping to gather data, SQL and pandas for data cleaning, and pandas, matplotlib, seaborn, and Plotly for visual analysis. The application was deployed using Docker, FastAPI, and Streamlit. <br>
-[Part 1 Webscraping to create a dataset (in collaboration)](https://github.com/Yanina-Andriienko/immo-eliza-scraping-scrapegoat)<br>
-[Part 2 Analysis (in collaboration)](https://github.com/Yanina-Andriienko/immo-eliza-scrapeGOATS-analysis)<br>
-[Part 2 ML to predict real estate prices (solo)](https://github.com/Yanina-Andriienko/immo-eliza-ml)<br>
-[Part 3 Deployment ML model with Fast API and Streamlit (solo)](https://github.com/Yanina-Andriienko/immo-eliza-deployment)<br>
+- [Part 1 Webscraping to create a dataset (in collaboration)](https://github.com/Yanina-Andriienko/immo-eliza-scraping-scrapegoat)<br>
+- [Part 2 Analysis (in collaboration)](https://github.com/Yanina-Andriienko/immo-eliza-scrapeGOATS-analysis)<br>
+- [Part 3 ML to predict real estate prices (solo)](https://github.com/Yanina-Andriienko/immo-eliza-ml)<br>
+- [Part 4 Deployment ML model with Fast API and Streamlit (solo)](https://github.com/Yanina-Andriienko/immo-eliza-deployment)<br>
 
 ### ✨ [Churn Prediction](https://github.com/Yanina-Andriienko/Churn-prediction)<br>
 Employed EDA to explore customer data, utilized a Random Forest classifier for churn prediction, and analyzed model performance.<br>
